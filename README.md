@@ -53,7 +53,7 @@
 
 | | Projeto | Descrição |
 |---|---|---|
-| 📓 | **[nome-do-projeto-1](https://github.com/virginia-mariuba/nome-do-projeto-1)** | Breve descrição do que ele faz |
+| 📓 | **[curso-ada-python](https://github.com/virginia-mariuba/curso-ada-python)** | Exercícios básico de python |
 | 📊 | **[nome-do-projeto-2](https://github.com/virginia-mariuba/nome-do-projeto-2)** | Breve descrição do que ele faz |
 | 🧪 | **[nome-do-projeto-3](https://github.com/virginia-mariuba/nome-do-projeto-3)** | Breve descrição do que ele faz |
 
