@@ -18,13 +18,13 @@
 
 ## 🌷 Sobre mim
 
-🎓 Estudante de **[SEU CURSO]** na **[SUA FACULDADE]**
+🎓 Estudante de **Ciências humanas / Economia** na **UFABC**
 
 💻 Guardando aqui os projetos que faço no **Google Colab** e na faculdade
 
 🌱 Aprendendo e crescendo um commit de cada vez
 
-🎯 Objetivo: **[estágio, carreira em tecnologia, etc.]**
+🎯 Objetivo: **estágio, carreira em tecnologia, etc.**
 
 ---
 
