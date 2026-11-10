@@ -2,9 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9ECF&height=170&section=header&text=Oi%2C%20eu%20sou%20a%20Virg%C3%ADnia%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 
-<img src="coding-from-home.gif" width="320" alt="Coding From Home - Virgínia digitando no notebook" />
+<p align="center">
+  <img src="coding-from-home.gif" width="320" alt="Coding From Home" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D6336C&center=true&vCenter=true&width=520&height=50&lines=Estudante+de+tecnologia;Aprendendo+Python,+Java,+AWS+e+SQL;Transformando+curiosidade+em+c%C3%B3digo" alt="Texto animado" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D6336C&center=true&vCenter=true&width=520&height=50&lines=Estudante+de+tecnologia;Aprendendo+Python,+Java,+AWS+e+SQL;Transformando+curiosidade+em+c%C3%B3digo" alt="Texto animado" />
+</p>
 
 <br>
 
