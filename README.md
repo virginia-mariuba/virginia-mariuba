@@ -37,13 +37,10 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-C084FC?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-F472B6?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-A78BFA?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-FFB6D9?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F9A8D4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-D8B4FE?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-F472B6?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
