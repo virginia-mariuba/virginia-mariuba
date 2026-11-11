@@ -51,7 +51,7 @@
 | | Projeto | Descrição |
 |---|---|---|
 | 📓 | **[curso-ada-python](https://github.com/virginia-mariuba/curso-ada-python)** | Exercícios básico de python |
-| 📊 | **[nome-do-projeto-2](https://github.com/virginia-mariuba/nome-do-projeto-2)** | Breve descrição do que ele faz |
+| 📊 | **[projeto-curso-ada-python](https://github.com/virginia-mariuba/projeto-curso-ada-python)** | Jogo: pedra, papel ou tesoura |
 | 🧪 | **[nome-do-projeto-3](https://github.com/virginia-mariuba/nome-do-projeto-3)** | Breve descrição do que ele faz |
 
 ---
