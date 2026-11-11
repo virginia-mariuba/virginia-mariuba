@@ -50,22 +50,12 @@
 
 | | Projeto | Descrição |
 |---|---|---|
-| 📓 | **[curso-ada-python](https://github.com/virginia-mariuba/curso-ada-python)** | Exercícios básico de python |
+| 📓 | **[curso-ada-python](https://github.com/virginia-mariuba/curso-ada-python)** | Exercícios básicos de python |
 | 📊 | **[projeto-curso-ada-python](https://github.com/virginia-mariuba/projeto-curso-ada-python)** | Jogo: pedra, papel ou tesoura |
 | 🧪 | **[nome-do-projeto-3](https://github.com/virginia-mariuba/nome-do-projeto-3)** | Breve descrição do que ele faz |
 
 ---
 
-## 📈 Minhas estatísticas
-
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=virginia-mariuba&show_icons=true&hide_border=true&title_color=D6336C&text_color=6B2D5C&icon_color=FF69B4&bg_color=FFF0F7)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=virginia-mariuba&layout=compact&hide_border=true&title_color=D6336C&text_color=6B2D5C&bg_color=FFF0F7)
-
-</div>
-
----
 
 <div align="center">
 
