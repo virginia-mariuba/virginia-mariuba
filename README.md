@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9ECF&height=170&section=header&text=Oi%2C%20eu%20sou%20a%20Virg%C3%ADnia%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 
 <p align="center">
-  <img src="coding-from-home.gif" width="320" alt="Coding From Home" />
+  <img src="coding-from-home.gif" width="500" alt="Coding From Home" />
 </p>
 
 <p align="center">
